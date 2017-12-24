@@ -6,7 +6,7 @@ include(cmake/HunterGate.cmake)
 
 HunterGate(
     URL "https://github.com/BURNINGTIGER/hunter/archive/v0.19.137.1.tar.gz"
-    SHA1 "a44749e0b66f5623cfdd04dbe5dc691935194882"
+    SHA1 "655c03ece0264677c3c90f823087c99af10a2d26"
 )
 
 project(demo)
